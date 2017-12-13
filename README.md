@@ -16,7 +16,7 @@ Set of tools to work with javascript.
 
 - <a href="https://revealjs.com/#/" target="_blank">reveal.js</a>
 
-Graphs
+:bar_chart: Graphs
 -------
 
 - <a href="http://sigmajs.org/" target="_blank">sigma.js</a>
