@@ -1,5 +1,4 @@
-# js-toolbox
-JS Tools :wrench: :hammer:
+Set of tools to work with javascript.
 
 Animation
 ========
