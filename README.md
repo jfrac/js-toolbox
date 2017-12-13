@@ -20,3 +20,10 @@ Set of tools to work with javascript.
 -------
 
 - <a href="http://sigmajs.org/" target="_blank">sigma.js</a>
+
+:scroll: PDF
+----
+
+- <a href="http://mozilla.github.io/pdf.js/" target="_blank">pdf.js</a>
+
+
