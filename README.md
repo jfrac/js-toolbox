@@ -3,4 +3,4 @@ Set of tools to work with javascript.
 Animation
 ========
 
-- [anime.js](http://animejs.com/)
+- <a href="http://animejs.com" target="_blank">anime.js</a>
