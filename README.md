@@ -10,3 +10,8 @@ Set of tools to work with javascript.
 -----
 
 - <a href="https://shopify.github.io/draggable/" target="_blank">draggable</a>
+
+:loudspeaker: Presentation Framework
+------
+
+- <a href="https://revealjs.com/#/" target="_blank">reveal.js</a>
