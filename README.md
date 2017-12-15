@@ -4,6 +4,7 @@ Set of tools to work with javascript.
 -----
 
 - <a href="http://animejs.com" target="_blank">anime.js</a>
+- <a href="https://popmotion.io/" target="_blank">popmotion</a> 
 
 
 :hand: Drag & Drop
